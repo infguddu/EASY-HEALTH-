@@ -1,0 +1,768 @@
+
+{
+  "appTitle": "Easy Treatment",
+  "appSubtitle": "A simple solution for your healthcare needs.",
+  "commonDiseasesTitle": "Common Diseases",
+  "commonDiseasesDescription": "Learn about common diseases and stay aware.",
+  "medicineInfoTitle": "Medicine Info",
+  "medicineInfoDescription": "Find information about commonly used medicines.",
+  "nearbyHospitalsTitle": "Nearby Hospitals",
+  "nearbyHospitalsDescription": "Find hospitals and clinics near you.",
+  "emergencySosTitle": "Emergency SOS",
+  "emergencySosDescription": "Get quick help in emergency situations.",
+  "healthTipsTitle": "Health Tips",
+  "healthTipsDescription": "New tips every day to stay healthy.",
+  "notificationsTitle": "Notifications",
+  "featureComingSoon": "This feature is coming soon",
+  "workingOnHospitals": "Click the button below to find hospitals near your location on Google Maps.",
+  "workingOnEmergency": "We are working on the Emergency SOS feature.",
+  "workingOnHealthTips": "We are working on the health tips feature.",
+  "workingOnProfile": "We are working on the profile feature.",
+  "workingOnSettings": "We are working on the settings feature.",
+  "workingOnHelp": "We are working on the help feature.",
+  "workingOnNotifications": "We are working on the notification feature.",
+  "symptomsLabel": "Main Symptoms",
+  "treatmentLabel": "Treatment",
+  "medicinesLabel": "Relevant Medicines",
+  "searchPlaceholder": "Search your problem...",
+  "home": "Home",
+  "profile": "Profile",
+  "settings": "Settings",
+  "help": "Help",
+  "profileNameLabel": "Name",
+  "profileNamePlaceholder": "Enter your name",
+  "profileAgeLabel": "Age",
+  "profileAgePlaceholder": "Enter your age",
+  "profileBloodGroupLabel": "Blood Group",
+  "profileBloodGroupPlaceholder": "e.g., O+",
+  "profilePhoneLabel": "Phone Number",
+  "profilePhonePlaceholder": "Enter your phone number",
+  "emergencyContactLabel": "Emergency Contact(s)",
+  "emergencyContactPlaceholder": "Enter one or more numbers, separated by commas",
+  "emergencyContactDescription": "You can add multiple numbers separated by a comma.",
+  "doctorContactLabel": "Doctor's Contact",
+  "doctorContactPlaceholder": "Enter doctor's phone number",
+  "ambulanceContactLabel": "Ambulance Contact",
+  "ambulanceContactPlaceholder": "Enter ambulance phone number",
+  "saveProfileButton": "Save Profile",
+  "profileSavedSuccess": "Profile saved successfully ✅",
+  "profileSavedError": "Failed to save profile",
+  "openGoogleMaps": "Open Google Maps",
+  "importantWarningTitle": "Important Warning",
+  "importantWarningText": "This information is for educational purposes only. Do not take any medication without a doctor's advice.",
+  "searchMedicinePlaceholder": "Search for a medicine...",
+  "noMedicineFound": "No medicine found.",
+  "searchForMedicine": "Search for Medicine",
+  "searchForMedicineDescription": "Find information about any medicine by typing its name above.",
+  "medicineDetails": "Medicine Details",
+  "medicineUses": "Uses",
+  "medicineDosage": "Dosage",
+  "medicineWarnings": "Warnings",
+  "medicineBrands": "Local Brands",
+  "searchDiseasePlaceholder": "Search for a disease...",
+  "noDiseaseFound": "No disease found.",
+  "searchResultsTitle": "Search Results",
+  "noResultsFound": "No results found.",
+  "diseasesSectionTitle": "Diseases",
+  "medicinesSectionTitle": "Medicines",
+  "diseasesList": [
+    {
+      "name": "Cuts and Wounds",
+      "phoneticName": "kete jawa khoto wound cut",
+      "description": "First aid is crucial for any cut or scrape on the body. It helps prevent infection and promotes faster healing.",
+      "symptoms": [
+        "Skin is cut or torn",
+        "Bleeding (minor or major)",
+        "Pain and burning sensation",
+        "Dirt or foreign objects stuck in the wound"
+      ],
+      "treatment": "First, wash your hands with soap and clean water. Then, clean the wound with clean water or an antiseptic. Try to stop the bleeding by applying pressure with a clean cloth or gauze. Once bleeding stops, apply an antibiotic ointment and cover it with a clean bandage. For deep wounds or if bleeding doesn't stop, see a doctor quickly.",
+      "medicines": [
+        "Antiseptic Solution (e.g., Povidone-Iodine)",
+        "Antibiotic Ointment (e.g., Mupirocin)",
+        "Bandage and Gauze",
+        "Tetanus Toxoid (TT) Vaccine"
+      ]
+    },
+    {
+      "name": "Burns",
+      "phoneticName": "pora burn agune pora",
+      "description": "Skin or other tissues can get burned from contact with fire, hot liquids, electricity, or chemicals. Treatment depends on the severity of the burn.",
+      "symptoms": [
+        "Reddened skin, burning sensation (First-degree)",
+        "Blisters and severe pain (Second-degree)",
+        "White or blackened skin, numbness (Third-degree)"
+      ],
+      "treatment": "Immediately pour plenty of cool (not icy) water over the affected area for at least 10-15 minutes. Do not break blisters. Cover loosely with a clean, dry cloth. Do not apply any oil, salt, or toothpaste. For severe burns, go to the hospital immediately.",
+      "medicines": [
+        "Silver sulfadiazine cream (to prevent infection)",
+        "Pain relievers (Paracetamol/Ibuprofen)"
+      ]
+    },
+    {
+      "name": "Snake Bite",
+      "phoneticName": "sape kata snake bite",
+      "description": "A snake bite is a medical emergency that requires immediate treatment. Although not all snake bites are venomous, they should always be treated as serious.",
+      "symptoms": [
+        "Two fang marks at the bite site",
+        "Severe pain, burning, and swelling",
+        "Bleeding from the bite site",
+        "Blurred vision, dizziness, vomiting",
+        "Difficulty breathing and paralysis (in case of venomous snakes)"
+      ],
+      "treatment": "Keep the victim calm and still. Keep the bite area below the level of the heart. Wash the bite area with soap and water. Do not apply any tourniquet or cut the wound. Do not go to a traditional healer. Take the patient to a hospital with antivenom as quickly as possible.",
+      "medicines": [
+        "Anti-Snake Venom (ASV) - Hospital only"
+      ]
+    },
+    {
+      "name": "Rabies",
+      "phoneticName": "jolatongko rabies kukur kamor",
+      "description": "Rabies is a deadly viral disease transmitted through the bite or scratch of an infected animal (usually a dog). It is fatal if not treated in time.",
+      "symptoms": [
+        "Pain or itching at the bite site",
+        "Fever, headache, restlessness",
+        "Fear of water or air (Hydrophobia/Aerophobia)",
+        "Behavioral changes, aggression",
+        "Paralysis and eventual death"
+      ],
+      "treatment": "Immediately wash the wound with soap and running water for at least 15 minutes. Then apply povidone-iodine or another antiseptic. Go to a doctor without any delay and start the anti-rabies vaccine (Post-Exposure Prophylaxis - PEP). Rabies immunoglobulin injection may also be needed depending on the type of bite.",
+      "medicines": [
+        "Anti-Rabies Vaccine",
+        "Rabies Immunoglobulin (RIG)"
+      ]
+    },
+    {
+      "name": "Poisoning",
+      "phoneticName": "bishkriya poisoning kitnashok",
+      "description": "Poisoning occurs from accidentally or intentionally ingesting or coming into contact with pesticides, kerosene, or other toxic substances. It is a critical emergency.",
+      "symptoms": [
+        "Vomiting or nausea, severe abdominal pain",
+        "Salivation from the mouth",
+        "Difficulty breathing, seizures",
+        "Loss of consciousness",
+        "Symptoms depend on the type of poison"
+      ],
+      "treatment": "Try to find out what the patient ingested and take the container or bottle with the patient to the hospital immediately. Do not try to induce vomiting unless a doctor tells you to. Keep the patient calm and try to maintain normal breathing.",
+      "medicines": [
+        "Specific antidote (e.g., Atropine) - Hospital only"
+      ]
+    },
+    {
+      "name": "Conjunctivitis (Pink Eye)",
+      "phoneticName": "chokh utha conjunctivitis pink eye",
+      "description": "Conjunctivitis, or pink eye, is an inflammation of the conjunctiva of the eye. It is usually caused by viral or bacterial infections or allergies and is very contagious.",
+      "symptoms": [
+        "Red or pink eye",
+        "Watery or pus-like discharge from the eye",
+        "Gritty feeling or burning in the eye",
+        "Difficulty looking at light"
+      ],
+      "treatment": "Clean the eye with clean water. Do not touch the eyes frequently. Using dark glasses provides comfort from light and reduces touching. For bacterial infections, antibiotic drops are used as per doctor's advice. It usually resolves in 7-10 days.",
+      "medicines": [
+        "Antibiotic eye drops (e.g., Ciprofloxacin, Moxifloxacin)",
+        "Antihistamine tablets (for allergies)"
+      ]
+    },
+    {
+      "name": "Kala-azar (Leishmaniasis)",
+      "phoneticName": "kalajor leishmaniasis",
+      "description": "Kala-azar is a parasitic disease spread by the bite of the 'sandfly'. It affects the liver, spleen, and bone marrow.",
+      "symptoms": [
+        "Prolonged irregular fever",
+        "Enlargement of spleen and liver (abdominal swelling)",
+        "Weight loss, anemia",
+        "Dry, thin, and dark skin"
+      ],
+      "treatment": "Requires treatment under a specialist after diagnosis through a blood test. Completing the full course of medicine is crucial.",
+      "medicines": [
+        "Miltefosine",
+        "Amphotericin B"
+      ]
+    },
+    {
+      "name": "Common Cold, Cough & Flu",
+      "phoneticName": "sadharon sordi kashi common cold cough thanda flu influenza",
+      "description": "Symptoms of the common cold include a runny nose, sneezing, sore throat, and cough. The flu, or influenza, can be more severe with high fever and body aches.",
+      "symptoms": [
+        "Runny or stuffy nose",
+        "Sneezing, cough, sore throat",
+        "Mild to high fever",
+        "Body and muscle aches (in case of flu)",
+        "Fatigue"
+      ],
+      "treatment": "Adequate rest, plenty of fluids, and symptomatic treatment (e.g., cough syrup, paracetamol for fever) are necessary. Consult a doctor for the flu.",
+      "medicines": [
+        "Paracetamol (for fever)",
+        "Antihistamine (e.g., Cetirizine) (for sneezing/runny nose)",
+        "Nasal drops (for stuffy nose)",
+        "Cough syrup"
+      ]
+    },
+    {
+      "name": "Viral Fever",
+      "phoneticName": "viral fever jor",
+      "description": "Fever caused by various viral infections is called viral fever. It usually lasts for a few days.",
+      "symptoms": [
+        "Fever",
+        "Body aches",
+        "Headache",
+        "Runny nose and cough",
+        "Sore throat",
+        "Fatigue"
+      ],
+      "treatment": "Drinking plenty of fluids, rest, and taking paracetamol for fever is recommended. A doctor's consultation is essential.",
+      "medicines": [
+        "Paracetamol",
+        "Oral Rehydration Saline (ORS)"
+      ]
+    },
+    {
+      "name": "Dengue Fever",
+      "phoneticName": "dengue jor fever",
+      "description": "Dengue is a mosquito-borne viral disease. Its main symptoms are high fever, severe headache, joint and muscle pain, and skin rash.",
+      "symptoms": [
+        "High fever (up to 104°F)",
+        "Severe headache, pain behind the eyes",
+        "Severe joint and muscle pain",
+        "Nausea and vomiting",
+        "Reddish rash on the body"
+      ],
+      "treatment": "There is no specific treatment. Plenty of fluids and saline intake, complete rest, and medication as advised by a doctor. Hospitalization is required if blood platelet count drops.",
+      "medicines": [
+        "Paracetamol (for pain and fever)",
+        "Oral Rehydration Saline (ORS)",
+        "Painkillers like Ibuprofen or Aspirin should be avoided"
+      ]
+    },
+    {
+      "name": "Typhoid",
+      "phoneticName": "typhoid",
+      "description": "Typhoid is a bacterial disease spread through contaminated water and food. Its main symptoms are prolonged fever, headache, and abdominal pain.",
+      "symptoms": [
+        "Slowly progressing, sustained fever",
+        "Headache",
+        "Abdominal pain",
+        "Weakness",
+        "Constipation or diarrhea"
+      ],
+      "treatment": "Taking antibiotics for a specific duration as per the doctor's advice is necessary. Adequate rest and fluid intake are essential.",
+      "medicines": [
+        "Azithromycin or other prescribed antibiotics",
+        "Paracetamol",
+        "Oral Rehydration Saline (ORS)"
+      ]
+    },
+    {
+      "name": "Malaria",
+      "phoneticName": "malaria",
+      "description": "Malaria is a mosquito-borne disease caused by the Plasmodium parasite. Its symptoms include fever with chills, headache, and vomiting.",
+      "symptoms": [
+        "Fever with chills at regular intervals",
+        "Fever subsiding with profuse sweating",
+        "Headache",
+        "Vomiting",
+        "Muscle pain"
+      ],
+      "treatment": "After diagnosis through a blood test, antimalarial drugs must be taken as per the doctor's advice.",
+      "medicines": [
+        "Antimalarial drugs (e.g., Chloroquine, Artemisinin-based)",
+        "Paracetamol"
+      ]
+    },
+    {
+      "name": "Chikungunya",
+      "phoneticName": "chikungunya",
+      "description": "Chikungunya is a viral disease transmitted by mosquitoes. Its main symptoms are fever and severe joint pain.",
+      "symptoms": [
+        "Sudden high fever",
+        "Severe joint pain and swelling (especially in hands and feet)",
+        "Headache",
+        "Muscle pain",
+        "Skin rash"
+      ],
+      "treatment": "There is no specific treatment. Pain relievers, fever reducers, and adequate rest are needed. Drink plenty of fluids.",
+      "medicines": [
+        "Paracetamol",
+        "Oral Rehydration Saline (ORS)"
+      ]
+    },
+    {
+      "name": "Diarrhea, Cholera & Food Poisoning",
+      "phoneticName": "diarrhea cholera patla paykhana food poisoning",
+      "description": "Diarrhea is usually caused by an infection or digestive problems. Cholera is an acute diarrheal disease that causes rapid dehydration. Food poisoning is caused by contaminated food.",
+      "symptoms": [
+        "Frequent loose or watery stools",
+        "Abdominal pain and cramps",
+        "Nausea or vomiting",
+        "Signs of dehydration (dry mouth, weakness)",
+        "Rice-water like stool in case of cholera"
+      ],
+      "treatment": "The main treatment is to prevent dehydration with Oral Rehydration Salts (ORS). Easily digestible food should be eaten. If cholera or severe food poisoning is suspected, go to the hospital immediately.",
+      "medicines": [
+        "Oral Rehydration Saline (ORS)",
+        "Antibiotics (for specific infections like Cholera or Shigella)",
+        "Anti-emetics (to stop vomiting)",
+        "Zinc tablets (for diarrhea in children)"
+      ]
+    },
+    {
+      "name": "Shigella & Rotavirus",
+      "phoneticName": "shigella shigellosis amashoy rotavirus",
+      "description": "Shigellosis is a bacterial infection that causes dysentery. Rotavirus is a major cause of severe diarrhea in children. Both are contagious.",
+      "symptoms": [
+        "Diarrhea with blood and mucus (Shigella)",
+        "Severe watery diarrhea (Rotavirus)",
+        "Abdominal pain and severe cramps",
+        "Fever and vomiting"
+      ],
+      "treatment": "For both, the main treatment is oral rehydration solution (ORS) to prevent dehydration. Antibiotics may be needed for Shigella infection on doctor's advice. A vaccine is available for Rotavirus.",
+      "medicines": [
+        "Oral Rehydration Saline (ORS)",
+        "Antibiotics (for Shigella)",
+        "Zinc tablets",
+        "Rotavirus vaccine (for prevention)"
+      ]
+    },
+    {
+      "name": "Pneumonia & Bronchitis (Breathing Difficulty)",
+      "phoneticName": "pneumonia bronchitis shaskosto",
+      "description": "Pneumonia is a serious lung infection. Bronchitis is an inflammation of the airways, leading to cough and mucus production. Both can cause difficulty in breathing.",
+      "symptoms": [
+        "Cough (with yellow, green, or bloody mucus)",
+        "Fever, sweating, and chills",
+        "Shortness of breath, rapid breathing",
+        "Chest pain or discomfort"
+      ],
+      "treatment": "Antibiotics (if bacterial), adequate rest, and fluid intake are necessary. Hospitalization is required for severe breathing difficulty.",
+      "medicines": [
+        "Antibiotics (e.g., Azithromycin, Cefixime)",
+        "Salbutamol inhaler (for shortness of breath)",
+        "Paracetamol"
+      ]
+    },
+    {
+      "name": "Tuberculosis (TB)",
+      "phoneticName": "jokkha tuberculosis tb",
+      "description": "Tuberculosis is a contagious bacterial disease that primarily affects the lungs but can also affect other parts of the body.",
+      "symptoms": [
+        "Cough lasting more than three weeks",
+        "Coughing up blood",
+        "Chest pain",
+        "Weight loss",
+        "Fever with night sweats"
+      ],
+      "treatment": "Requires completing a course of antibiotics regularly for 6-9 months under a doctor's supervision. It is treated through the DOTS strategy.",
+      "medicines": [
+        "Rifampicin, Isoniazid, Pyrazinamide, Ethambutol (combination therapy)"
+      ]
+    },
+    {
+      "name": "Skin Diseases (Itching, Scabies, Ringworm)",
+      "phoneticName": "chulkani khospachra scabies fungal infection daad chormorog",
+      "description": "Scabies is a contagious skin disease caused by mites. Ringworm or fungal infection is caused by fungi, which causes itching.",
+      "symptoms": [
+        "Intense itching at night (Scabies)",
+        "Small red bumps or blisters",
+        "Circular red patches and itching (Ringworm)"
+      ],
+      "treatment": "Specific creams, lotions, or oral medications as per doctor's advice. Staying clean and boiling clothes is important.",
+      "medicines": [
+        "Permethrin cream (for Scabies)",
+        "Antifungal cream (e.g., Clotrimazole) (for Ringworm)",
+        "Antihistamines (to reduce itching)"
+      ]
+    },
+    {
+      "name": "Diabetes",
+      "phoneticName": "diabetes",
+      "description": "Diabetes is a chronic disease where the body cannot produce enough insulin or cannot use insulin properly, leading to high blood sugar levels.",
+      "symptoms": [
+        "Excessive thirst",
+        "Frequent urination",
+        "Increased hunger",
+        "Unexplained weight loss",
+        "Fatigue and blurred vision"
+      ],
+      "treatment": "Regular exercise, a controlled diet, and medication or insulin as advised by a doctor. Regular blood sugar monitoring is essential.",
+      "medicines": [
+        "Metformin",
+        "Insulin",
+        "Other anti-diabetic drugs"
+      ]
+    },
+    {
+      "name": "Hypertension (High Blood Pressure)",
+      "phoneticName": "high blood pressure hypertension uccho roktochap",
+      "description": "Hypertension is a condition where the pressure on the artery walls is higher than normal. It is called the 'silent killer'.",
+      "symptoms": [
+        "Usually no symptoms",
+        "In severe cases, headache, dizziness",
+        "Shortness of breath",
+        "Nosebleeds"
+      ],
+      "treatment": "Lifestyle changes (reducing salt and fat, exercise), reducing stress, and regular medication as per doctor's advice.",
+      "medicines": [
+        "Amlodipine",
+        "Losartan",
+        "Other antihypertensive drugs"
+      ]
+    },
+    {
+      "name": "Heart Disease",
+      "phoneticName": "heart disease hridrog",
+      "description": "Heart disease can be of various types, such as coronary artery disease, heart failure, etc., affecting the heart and blood vessels.",
+      "symptoms": [
+        "Pain, pressure, or discomfort in the center or left side of the chest",
+        "Shortness of breath",
+        "Irregular heartbeat",
+        "Swelling in hands, legs, or ankles",
+        "Dizziness or fainting"
+      ],
+      "treatment": "Lifestyle changes (quitting smoking, healthy diet), medication, and in severe cases, surgery (like bypass or stenting) may be required.",
+      "medicines": [
+        "Aspirin/Clopidogrel",
+        "Statins (to lower cholesterol)",
+        "Beta-blockers"
+      ]
+    },
+    {
+      "name": "Asthma",
+      "phoneticName": "asthma shaskosto hapani",
+      "description": "Asthma is a chronic respiratory disease where the airways become inflamed and narrow, making it difficult to breathe.",
+      "symptoms": [
+        "Shortness of breath",
+        "Chest tightness or wheezing sound",
+        "Cough with difficulty in breathing",
+        "Symptoms worsen at night or in the morning"
+      ],
+      "treatment": "Use of inhalers and avoiding allergens (dust, smoke). It is essential to follow the doctor's advice.",
+      "medicines": [
+        "Salbutamol inhaler (Reliever)",
+        "Steroid inhaler (Preventer)"
+      ]
+    },
+    {
+      "name": "Worm Infestation",
+      "phoneticName": "krimi worm infestation",
+      "description": "Worms are parasites that live in the human intestine. They can cause malnutrition and other health problems, especially in children.",
+      "symptoms": [
+        "Abdominal pain",
+        "Nausea",
+        "Loss of appetite and weight loss",
+        "Itching in the anal area (especially at night)"
+      ],
+      "treatment": "Taking deworming medicine at regular intervals as per doctor's advice. Following hygienic practices like washing hands before eating and keeping nails short is important.",
+      "medicines": [
+        "Albendazole or Mebendazole"
+      ]
+    },
+    {
+      "name": "Anemia",
+      "phoneticName": "anemia roktoshunnota iron ghatli",
+      "description": "Anemia is a condition where the amount of red blood cells or hemoglobin in the blood is low. Iron deficiency is its main cause.",
+      "symptoms": [
+        "Extreme fatigue and weakness",
+        "Pale skin, lips, and nails",
+        "Shortness of breath on mild exertion",
+        "Dizziness and headache"
+      ],
+      "treatment": "Treatment depends on the cause. For iron deficiency, iron and folic acid supplements and iron-rich foods (liver, leafy greens, eggs) are needed.",
+      "medicines": [
+        "Iron supplements (Ferrous Sulfate)",
+        "Folic Acid"
+      ]
+    },
+    {
+      "name": "Urinary Tract Infection (UTI)",
+      "phoneticName": "urinary tract infection uti prosrabe jalapora",
+      "description": "UTI is an infection of the urinary tract, which can affect the kidneys, bladder, or urethra. It is more common in women.",
+      "symptoms": [
+        "Burning or pain during urination",
+        "Frequent urge to urinate but passing small amounts",
+        "Lower abdominal pain",
+        "Fever and chills"
+      ],
+      "treatment": "Drinking plenty of water and fluids. Taking antibiotics for the prescribed duration as per doctor's advice is necessary.",
+      "medicines": [
+        "Antibiotics (e.g., Ciprofloxacin, Nitrofurantoin)"
+      ]
+    },
+    {
+      "name": "Heat Stroke & Dehydration",
+      "phoneticName": "heat stroke panishunnota dehydration",
+      "description": "Heat stroke occurs when the body's temperature regulation system fails due to excessive heat. Dehydration means a lack of water in the body.",
+      "symptoms": [
+        "Body temperature above 104°F",
+        "Hot, dry skin, no sweating",
+        "Severe headache, vomiting",
+        "Loss of consciousness"
+      ],
+      "treatment": "This is an emergency. The person should be moved to a cool place, their body wiped with a wet cloth, and taken to the hospital immediately. Drink saline to prevent dehydration.",
+      "medicines": [
+        "Oral Rehydration Saline (ORS)"
+      ]
+    },
+    {
+      "name": "Hepatitis",
+      "phoneticName": "hepatitis a b c e jaundice",
+      "description": "Hepatitis is an inflammation of the liver, primarily caused by viruses (A, B, C, E). It is a major cause of jaundice.",
+      "symptoms": [
+        "Jaundice (yellowing of skin and eyes)",
+        "Dark colored urine",
+        "Fatigue, nausea",
+        "Pain in the upper right side of the abdomen"
+      ],
+      "treatment": "Treatment varies by virus type. Rest, a healthy diet, and medication as per doctor's advice are needed. Vaccines are available for Hepatitis B and A.",
+      "medicines": [
+        "Antiviral drugs (for Hepatitis B and C)",
+        "Hepatitis A and B vaccines (for prevention)"
+      ]
+    },
+    {
+      "name": "Measles, Rubella, Chickenpox",
+      "phoneticName": "ham measles rubella chickenpox guti bosonto",
+      "description": "These are all viral contagious diseases, usually affecting children. The main symptom is a rash or spots on the body.",
+      "symptoms": [
+        "Rash or fluid-filled spots all over the body with fever",
+        "Body aches, headache",
+        "Discomfort"
+      ],
+      "treatment": "There is no specific treatment. Symptomatic treatment is given. Lotions are used to reduce itching, and soft food is given. Can be prevented by vaccination.",
+      "medicines": [
+        "Paracetamol",
+        "Antihistamines (for itching)",
+        "Calamine lotion (for itching)",
+        "MMR and Varicella vaccines (for prevention)"
+      ]
+    },
+    {
+      "name": "Stroke (Brain Stroke)",
+      "phoneticName": "stroke brain stroke",
+      "description": "A stroke occurs when blood supply to the brain is cut off (Ischemic) or a blood vessel in the brain ruptures (Hemorrhagic). It is a medical emergency.",
+      "symptoms": [
+        "FAST: Face (drooping), Arm (weakness), Speech (difficulty), Time (to call for help quickly)",
+        "Severe headache",
+        "Loss of balance"
+      ],
+      "treatment": "If signs of a stroke are observed, immediate hospitalization is necessary. Prompt treatment can reduce permanent brain damage.",
+      "medicines": [
+        "Antiplatelets (Aspirin)",
+        "Anticoagulants (Warfarin)",
+        "Blood pressure control medications"
+      ]
+    },
+    {
+      "name": "Migraine & Headache",
+      "phoneticName": "migraine mathabyatha headache",
+      "description": "Migraine is a specific type of severe headache, usually on one side of the head, and may be accompanied by nausea or sensitivity to light and sound.",
+      "symptoms": [
+        "Severe throbbing pain on one side of the head",
+        "Sensitivity to light or sound",
+        "Nausea or vomiting",
+        "Seeing flashes of light (Aura)"
+      ],
+      "treatment": "Pain relievers, rest in a quiet and dark room, and specific medication as prescribed by a doctor. Avoiding migraine triggers is helpful.",
+      "medicines": [
+        "Paracetamol or Ibuprofen",
+        "Specific migraine medications (e.g., Triptans)"
+      ]
+    },
+    {
+      "name": "Arthritis (Joint Pain)",
+      "phoneticName": "arthritis bath byatha",
+      "description": "Arthritis is the inflammation of the joints, causing pain and swelling.",
+      "symptoms": [
+        "Joint pain, swelling, and stiffness",
+        "Stiffness after waking up in the morning",
+        "Difficulty in moving the joint"
+      ],
+      "treatment": "Medication, exercise, and lifestyle changes as per doctor's advice. Weight control is important.",
+      "medicines": [
+        "Painkillers (NSAIDs like Ibuprofen)",
+        "Steroids",
+        "DMARDs"
+      ]
+    },
+    {
+      "name": "Kidney & Liver Disease",
+      "phoneticName": "kidney liver ckd fatty cirrhosis",
+      "description": "Chronic Kidney Disease (CKD) and liver diseases (like fatty liver, cirrhosis) can be silent killers.",
+      "symptoms": [
+        "Swelling in legs and face",
+        "Change in urine output",
+        "Loss of appetite, nausea",
+        "Extreme weakness",
+        "Fluid in the abdomen (ascites in liver cirrhosis)"
+      ],
+      "treatment": "Treatment depends on the type and stage of the disease. Diet control, medication, and in severe cases, dialysis or organ transplant are needed.",
+      "medicines": [
+        "Diuretics (to reduce swelling)",
+        "Blood pressure medications",
+        "Specific medications for liver disease"
+      ]
+    },
+    {
+      "name": "Mental Health Issues",
+      "phoneticName": "mental health depression anxiety stress moner rog bishonnota",
+      "description": "Depression, Anxiety, Insomnia (sleep problems), and Stress are common mental illnesses. Mental health is as important as physical health.",
+      "symptoms": [
+        "Persistent sadness, loss of interest (Depression)",
+        "Unreasonable fear or panic (Anxiety)",
+        "Difficulty sleeping (Insomnia)",
+        "Irritability"
+      ],
+      "treatment": "Consultation with a psychologist or psychiatrist is necessary. Counseling, therapy, and, if needed, medication are used for treatment.",
+      "medicines": [
+        "Antidepressants",
+        "Anxiolytics",
+        "Sleeping pills (e.g., Clonazepam)"
+      ]
+    },
+    {
+      "name": "Leprosy",
+      "phoneticName": "kustho rog leprosy",
+      "description": "Leprosy is a chronic infectious disease that affects the skin, peripheral nerves, upper respiratory tract, eyes, and testes.",
+      "symptoms": [
+        "Pale or reddish patches on the skin that are numb",
+        "Weakness or numbness in hands or feet",
+        "Swollen nerves",
+        "Eye problems"
+      ],
+      "treatment": "Completely curable with multi-drug therapy (MDT). Treatment is available for free at government health centers.",
+      "medicines": [
+        "Dapsone, Rifampicin, Clofazimine (MDT)"
+      ]
+    },
+    {
+      "name": "Whooping Cough (Pertussis)",
+      "phoneticName": "huping kashi whooping cough pertussis",
+      "description": "Whooping cough is a highly contagious respiratory tract infection. It is known for its severe, hacking cough followed by a high-pitched intake of breath that sounds like a 'whoop'.",
+      "symptoms": [
+        "Initial cold-like symptoms",
+        "Later, severe coughing fits (paroxysms)",
+        "A 'whoop' sound at the end of a cough",
+        "Vomiting after coughing"
+      ],
+      "treatment": "Treated with antibiotics. The most effective prevention is through vaccination (DPT).",
+      "medicines": [
+        "Azithromycin",
+        "DPT/Tdap vaccine (for prevention)"
+      ]
+    },
+    {
+      "name": "Polio (Poliomyelitis)",
+      "phoneticName": "polio poliomyelitis",
+      "description": "Polio is a viral disease that can affect the nervous system and cause paralysis. It is now almost eradicated due to vaccination.",
+      "symptoms": [
+        "Most cases have no symptoms",
+        "Fever, fatigue, headache, vomiting",
+        "Stiff neck",
+        "Pain in the limbs and paralysis"
+      ],
+      "treatment": "There is no cure, only supportive care is given. It is completely preventable by vaccination.",
+      "medicines": [
+        "Polio Vaccine (OPV, IPV)"
+      ]
+    },
+    {
+      "name": "Malnutrition & Vitamin Deficiency",
+      "phoneticName": "opusti malnutrition vitamin d iron protein energy deficiency",
+      "description": "Malnutrition is a lack of essential nutrients for the body. This includes deficiencies in Vitamin D, iron, and protein, which cause various health problems.",
+      "symptoms": [
+        "Wasting or poor growth in children (PEM)",
+        "Weak or deformed bones (Vitamin D)",
+        "Anemia, fatigue (Iron)",
+        "Weakness, frequent illness"
+      ],
+      "treatment": "Eating a balanced and nutritious diet. Supplements (vitamin or iron tablets) may be needed on doctor's advice.",
+      "medicines": [
+        "Vitamin D supplements",
+        "Iron supplements",
+        "Multivitamins",
+        "Protein supplements"
+      ]
+    },
+    {
+      "name": "Thyroid Problems",
+      "phoneticName": "thyroid problem hypo hyperthyroidism",
+      "description": "Problems related to the underproduction (Hypothyroidism) or overproduction (Hyperthyroidism) of hormones by the thyroid gland.",
+      "symptoms": [
+        "Weight gain, fatigue, intolerance to cold (Hypo)",
+        "Weight loss, palpitations, heat intolerance (Hyper)",
+        "Goiter or neck swelling",
+        "Menstrual irregularities"
+      ],
+      "treatment": "After diagnosis via blood tests, treatment involves hormone replacement therapy or other medications as prescribed by a doctor.",
+      "medicines": [
+        "Levothyroxine (for Hypothyroidism)",
+        "Methimazole or Carbimazole (for Hyperthyroidism)"
+      ]
+    },
+    {
+      "name": "Women's Health Issues",
+      "phoneticName": "narider shastho pcos masik prosrob poroborti jotilota",
+      "description": "Includes issues like Polycystic Ovary Syndrome (PCOS), irregular menstruation, post-partum complications, and various hormonal problems.",
+      "symptoms": [
+        "Irregular periods or heavy bleeding",
+        "Lower abdominal pain",
+        "Unwanted facial hair (PCOS)",
+        "Excessive bleeding or infection after childbirth"
+      ],
+      "treatment": "A consultation with a gynecologist is essential. Treatment involves lifestyle changes, medication, or surgery if necessary.",
+      "medicines": [
+        "Oral contraceptive pills (to regulate periods)",
+        "Metformin (for PCOS)"
+      ]
+    },
+    {
+      "name": "Men's Health Issues",
+      "phoneticName": "purushder shastho erectile dysfunction ed sperm count",
+      "description": "Includes issues like prostate problems (BPH), erectile dysfunction (ED), and low sperm count.",
+      "symptoms": [
+        "Difficulty urinating, frequent urination (Prostate)",
+        "Inability to achieve or maintain an erection (ED)",
+        "Infertility"
+      ],
+      "treatment": "It is important to consult a specialist (Urologist or Andrologist) without hesitation. Lifestyle changes and proper medical treatment can solve these issues.",
+      "medicines": [
+        "Tamsulosin (for BPH)",
+        "Sildenafil (for ED)"
+      ]
+    },
+    {
+      "name": "Cancer",
+      "phoneticName": "cancer breast cervical prostate",
+      "description": "Cancer is the abnormal and uncontrolled growth of cells in the body. Breast, cervical, prostate, lung, and oral cancers are more common.",
+      "symptoms": [
+        "A lump or mass in any part of the body",
+        "A persistent cough or hoarseness",
+        "Changes in bowel or bladder habits",
+        "Unexplained weight loss",
+        "A sore that does not heal"
+      ],
+      "treatment": "Early detection significantly increases the chances of successful treatment. Surgery, chemotherapy, and radiation therapy are the main treatment methods. Regular check-ups are crucial.",
+      "medicines": [
+        "Chemotherapy drugs",
+        "Targeted therapy drugs",
+        "Immunotherapy drugs"
+      ]
+    },
+    {
+      "name": "Tobacco & Alcohol-Related Diseases",
+      "phoneticName": "tamak alcohol related disease",
+      "description": "Smoking and alcohol consumption drastically increase the risk of serious diseases like lung cancer, liver cirrhosis, heart disease, and stroke.",
+      "symptoms": [
+        "Chronic cough, shortness of breath",
+        "Jaundice, fluid in the abdomen",
+        "High blood pressure",
+        "Memory loss"
+      ],
+      "treatment": "The best treatment is to quit these habits. It is advisable to seek help from a specialist or a rehab center if needed.",
+      "medicines": [
+        "Nicotine replacement therapy (to quit smoking)",
+        "Medications for liver support"
+      ]
+    }
+  ]
+}
